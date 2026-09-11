@@ -10,20 +10,34 @@
             background-color: rgb(0, 0, 0);
             color: gold;
             font-family: Arial, Helvetica, sans-serif;
-            text-align: center;
+            text-align: left;
             font-size: 50px;
         }
-        h1{
+        #titulo{
             background-color: rgb(100, 100, 100);
+            text-align: center;
         }
+        #sub{
+            text-align: center;
+        }
+
+
+       
       
     </style>
 </head>
 <body>
-    <header>
-        <h1>inovar</h1>
-        <p>personalizaçao de volantes </p>
-</header>
+    
+    <header> 
+        <div><h1 id="titulo">inovar</h1></div>
+        <p id="sub">personalizaçao de volantes </p>
+    </header>
+    <main>
+        <article>
+            <h1>nossa historia</h1>
+            <p></p>
+        </article>
+    </main>
 <nav>
     <a href="https://www.google.com/goto?url=CAESYgHrOzAVT8QgjKJVD-09Lh_cadc-Sa4sHA18dWbCR5NlKPqtIN4OjtKehacwhW2xwLRCl_m7BHvg9cRqe-QRQ2tdD9aJnCxh43fqJd6HPL038dLvoXIVX5xc-Cf5FrbllNqj">instagram</a>
     <a href="https://www.google.com/goto?url=CAESdQHrOzAV29GWmPjsPJDlaM5WD-W5Pzwh975mA-3VwceQ1kj3FsTSmjDcIRUkpVNNAXPY-gFNPYaR9cmdu_e1gpZ4D5DQ2vgJlemmwmBD8QPTI3yfuwqfnHg1RBykld9PInX9uL7mHF8QM55VhZG1OVuVwQJ9Zg">facebook</a>
